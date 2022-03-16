@@ -1,0 +1,19 @@
+.zebra{
+    background-color: rgb(255, 120, 145);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#lion{
+    color: #05f;
+    font-size: 36px;
+}
+
+.zebra.horse{
+    font-size: 24px;
+}
+
+#monkey{
+    background-color: hsl(106, 71%, 71%);
+    font-size: 24px;
+    font-weight: bold;
+}
